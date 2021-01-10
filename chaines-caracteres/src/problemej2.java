@@ -14,6 +14,14 @@ public class problemej2
 				
 				imput=sc.nextInt();
 				
+				String happy = (":-)"); String sad = (":-(");
+				
+				for(int i=0;i<happy.length();i++)
+					System.out.println("happy");
+				for(int i=0;i<sad.length();i++)
+					System.out.println("sad");
+				
+				
 
 			}
 
